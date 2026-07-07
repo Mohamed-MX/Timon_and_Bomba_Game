@@ -1,6 +1,6 @@
 # Timon & Bomba Arcade Game 🐗🦦
 
-A retro 2D arcade-style 2-Player competitive shooting game built from scratch in C++ using the OpenGL (GLUT) graphics library and the Windows Multimedia API for sound. Originally developed as a college computer graphics project, players control Timon and Bomba (Pumbaa) in a race to hunt bugs across the African savanna while avoiding penalty-triggering butterflies!
+A retro 2D arcade-style 2-Player competitive shooting game 🕹️👾🎮 built from scratch in C++ using the OpenGL (GLUT) graphics library and the Windows Multimedia API for sound. Originally developed as a college computer graphics project, players control Timon and Bomba (Pumbaa) in a race to hunt bugs across the African savanna while avoiding penalty-triggering butterflies!
 
 ---
 
